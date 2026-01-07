@@ -74,6 +74,7 @@ Book-Sales-Analysis/
 ├── sql queries of book_sale_analysis.sql
 ├── Book_sales_Analysis_Output.pdf
 └── README.md
+
 ---
 
 🚀 Learning Outcomes
