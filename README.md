@@ -5,7 +5,7 @@ This project focuses on analyzing a book sales database using SQL to extract bus
 
 The objective of this analysis is to demonstrate how raw transactional data can be transformed into actionable insights that support data-driven decision-making.
 
-
+---
 🎯 Business Problems Addressed
 
 Which book genres generate the highest demand?
@@ -18,7 +18,7 @@ Are there inventory risks due to low stock levels?
 
 How much revenue is generated from high-value orders?
 
-
+---
 
 📊 Key Insights
 
@@ -32,7 +32,7 @@ Pricing Insight: Fantasy books have a higher average price of $25.98
 
 Inventory Status: 25,056 books in stock, with several low-stock titles (6–13 units) requiring replenishment.
 
-
+---
 
 
 🗂️ Dataset Description
@@ -46,7 +46,7 @@ Customers.csv – Customer information
 Orders.csv – Order transactions and purchase details.
 
 
-
+---
 
 🛠️ Tools & Technologies
 
@@ -62,7 +62,7 @@ Aggregate Functions (SUM, COUNT, AVG)
 
 Conditional & date-based filtering.
 
-
+---
 
 📁 Project Structure
 Book-Sales-Analysis/
@@ -73,7 +73,7 @@ Book-Sales-Analysis/
 ├── sql queries of book_sale_analysis.sql
 ├── Book_sales_Analysis_Output.pdf
 └── README.md
-
+---
 
 🚀 Learning Outcomes
 
@@ -85,7 +85,7 @@ Learned how to convert analytical results into clear business insights
 
 Strengthened understanding of relational databases.
 
-
+---
 🤝 Connect
 
 If you like this project or want to collaborate, feel free to connect!
