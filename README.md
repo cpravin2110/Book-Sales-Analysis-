@@ -1,4 +1,5 @@
 📚 Book Sales Analysis | SQL Project
+---
 📌 Project Overview
 
 This project focuses on analyzing a book sales database using SQL to extract business-relevant insights related to sales performance, customer behavior, pricing strategy, and inventory management.
