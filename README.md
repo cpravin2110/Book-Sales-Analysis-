@@ -1,14 +1,14 @@
-### 📚 Book Sales Analysis | SQL Project
+## 📚 Book Sales Analysis | SQL Project
 
 ---
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project focuses on analyzing a book sales database using SQL to extract business-relevant insights related to sales performance, customer behavior, pricing strategy, and inventory management.
 
 The objective of this analysis is to demonstrate how raw transactional data can be transformed into actionable insights that support data-driven decision-making.
 
 ---
-## 🎯 Business Problems Addressed
+### 🎯 Business Problems Addressed
 
 ● Which book genres generate the highest demand?
 
@@ -22,7 +22,7 @@ The objective of this analysis is to demonstrate how raw transactional data can 
 
 ---
 
-## 📊 Key Insights
+### 📊 Key Insights
 
 ⁘  Total Revenue: $75,628.66 generated from 473 high-value orders.
 
@@ -37,7 +37,7 @@ The objective of this analysis is to demonstrate how raw transactional data can 
 ---
 
 
-## 🗂️ Dataset Description
+### 🗂️ Dataset Description
 
 **The project uses the following datasets:**
 
@@ -50,7 +50,7 @@ The objective of this analysis is to demonstrate how raw transactional data can 
 
 ---
 
-## 🛠️ Tools & Technologies
+### 🛠️ Tools & Technologies
 
 »  SQL
 
@@ -66,7 +66,7 @@ The objective of this analysis is to demonstrate how raw transactional data can 
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 Book-Sales-Analysis/
 │
@@ -79,7 +79,7 @@ Book-Sales-Analysis/
 
 ---
 
-## 🚀 Learning Outcomes
+### 🚀 Learning Outcomes
 
 ⁘  Improved ability to write optimized SQL queries.
 
@@ -90,7 +90,7 @@ Book-Sales-Analysis/
 ⁘  Strengthened understanding of relational databases.
 
 ---
-## 🤝 Connect
+### 🤝 Connect
 
 If you like this project or want to collaborate, feel free to connect!
 
