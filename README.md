@@ -1,4 +1,4 @@
-## 📚 Book Sales Analysis | SQL Project
+# 📚 Book Sales Analysis | SQL Project
 
 ---
 ### 📌 Project Overview
