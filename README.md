@@ -1,71 +1,73 @@
-📚 Book Sales Analysis | SQL Project
+### 📚 Book Sales Analysis | SQL Project
+
 ---
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing a book sales database using SQL to extract business-relevant insights related to sales performance, customer behavior, pricing strategy, and inventory management.
 
 The objective of this analysis is to demonstrate how raw transactional data can be transformed into actionable insights that support data-driven decision-making.
 
 ---
-🎯 Business Problems Addressed
+## 🎯 Business Problems Addressed
 
-Which book genres generate the highest demand?
+● Which book genres generate the highest demand?
 
-Who are the most valuable customers?
+● Who are the most valuable customers?
 
-How effective is the current pricing strategy?
+● How effective is the current pricing strategy?
 
-Are there inventory risks due to low stock levels?
+● Are there inventory risks due to low stock levels?
 
-How much revenue is generated from high-value orders?
-
----
-
-📊 Key Insights
-
-Total Revenue: $75,628.66 generated from 473 high-value orders
-
-Top-Selling Genre: Mystery (504 copies sold)
-
-High-Value Customer: Kim Turner with a total spend of $1,398.90
-
-Pricing Insight: Fantasy books have a higher average price of $25.98
-
-Inventory Status: 25,056 books in stock, with several low-stock titles (6–13 units) requiring replenishment.
+● How much revenue is generated from high-value orders?
 
 ---
 
+## 📊 Key Insights
 
-🗂️ Dataset Description
+⁘  Total Revenue: $75,628.66 generated from 473 high-value orders.
 
-The project uses the following datasets:
+⁘  Top-Selling Genre: Mystery (504 copies sold).
 
-Books.csv – Book details (title, author, genre, price, stock)
+⁘  High-Value Customer: Kim Turner with a total spend of $1,398.90.
 
-Customers.csv – Customer information
+⁘  Pricing Insight: Fantasy books have a higher average price of $25.98.
 
-Orders.csv – Order transactions and purchase details.
+⁘  Inventory Status: 25,056 books in stock, with several low-stock titles (6–13 units) requiring replenishment.
+
+---
+
+
+## 🗂️ Dataset Description
+
+**The project uses the following datasets:**
+
+»  Books.csv – Book details (title, author, genre, price, stock)
+
+»  Customers.csv – Customer information
+
+»  Orders.csv – Order transactions and purchase details.
 
 
 ---
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
-SQL
+»  SQL
 
-JOINs
+»  JOINs
 
-GROUP BY & HAVING
+»  GROUP BY & HAVING
 
-Subqueries
+»  Subqueries
 
-Aggregate Functions (SUM, COUNT, AVG)
+»  Aggregate Functions (SUM, COUNT, AVG)
 
-Conditional & date-based filtering.
+»  Conditional & date-based filtering.
 
 ---
 
-📁 Project Structure
+## 📁 Project Structure
+
 Book-Sales-Analysis/
 │
 ├── Books.csv
@@ -77,18 +79,18 @@ Book-Sales-Analysis/
 
 ---
 
-🚀 Learning Outcomes
+## 🚀 Learning Outcomes
 
-Improved ability to write optimized SQL queries
+⁘  Improved ability to write optimized SQL queries.
 
-Gained experience in business-oriented data analysis
+⁘  Gained experience in business-oriented data analysis.
 
-Learned how to convert analytical results into clear business insights
+⁘  Learned how to convert analytical results into clear business insights.
 
-Strengthened understanding of relational databases.
+⁘  Strengthened understanding of relational databases.
 
 ---
-🤝 Connect
+## 🤝 Connect
 
 If you like this project or want to collaborate, feel free to connect!
 
