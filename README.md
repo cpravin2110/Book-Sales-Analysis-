@@ -1,6 +1,6 @@
 # 📚 Book Sales Analysis | SQL Project
 
-![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
+![Dashboard Preview](https://github.com/cpravin2110/Book-Sales-Analysis-/blob/d3b0836a36fa23d0fe73e5be61913b01abd29597/Book%20sales%20template.png)
 
 ---
 ### 📌 Project Overview
