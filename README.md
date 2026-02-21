@@ -1,5 +1,7 @@
 # 📚 Book Sales Analysis | SQL Project
 
+![Dashboard Preview](Screenshot%202025-11-22%20131808.png)
+
 ---
 ### 📌 Project Overview
 
